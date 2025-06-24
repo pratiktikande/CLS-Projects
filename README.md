@@ -39,8 +39,8 @@ A basic console-based multiple-choice quiz application built using **Core Java**
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/pratiktikande/CLS-Projects
-cd CLS-Projects
+git clone https://github.com/pratiktikande/CLS-QuizApp_Project
+cd CLS-QuizApp_Project
 ```
 
 2. **Compile the Java files**  
